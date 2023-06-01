@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667442306504",
+    "project_id": "pushnotificationwelfare-52859",
+    "storage_bucket": "pushnotificationwelfare-52859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667442306504:android:6c5738388b53470b0db4fd",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationwelfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667442306504-ougbi0fejera07li427h49r5vltgp5qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvipbA7m3dvSoznMTkiU8HIe-tBANJe7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667442306504-ougbi0fejera07li427h49r5vltgp5qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
