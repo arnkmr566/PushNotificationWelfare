@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     String TAG = "NameToken";
       TextView  textView;
-      Button welfare;
+
 
 
     @Override
@@ -30,14 +30,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         textView = findViewById(R.id.tvText);
-
-
-        welfare.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "yes", Toast.LENGTH_SHORT).show();
-            }
-        });
 
 
         FirebaseMessaging.getInstance().getToken()
